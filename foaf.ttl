@@ -1,1 +1,21 @@
-
+<https://raw.githubusercontent.com/aadjiandov/vbs_foaf/main/foaf.ttl> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/PersonalProfileDocument> .
+<https://raw.githubusercontent.com/aadjiandov/vbs_foaf/main/foaf.ttl> <http://xmlns.com/foaf/0.1/maker> <https://raw.githubusercontent.com/aadjiandov/vbs_foaf/main/foaf.ttl#me> .
+<https://raw.githubusercontent.com/aadjiandov/vbs_foaf/main/foaf.ttl> <http://xmlns.com/foaf/0.1/primaryTopic> <https://raw.githubusercontent.com/aadjiandov/vbs_foaf/main/foaf.ttl#me> .
+<https://raw.githubusercontent.com/aadjiandov/vbs_foaf/main/foaf.ttl> <http://webns.net/mvcb/generatorAgent> <http://www.ldodds.com/foaf/foaf-a-matic> .
+<https://raw.githubusercontent.com/aadjiandov/vbs_foaf/main/foaf.ttl> <http://webns.net/mvcb/errorReportsTo> <mailto:leigh@ldodds.com> .
+<https://raw.githubusercontent.com/aadjiandov/vbs_foaf/main/foaf.ttl#me> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> .
+<https://raw.githubusercontent.com/aadjiandov/vbs_foaf/main/foaf.ttl#me> <http://xmlns.com/foaf/0.1/name> "Andon Adji-Andov" .
+<https://raw.githubusercontent.com/aadjiandov/vbs_foaf/main/foaf.ttl#me> <http://xmlns.com/foaf/0.1/title> "Mr" .
+<https://raw.githubusercontent.com/aadjiandov/vbs_foaf/main/foaf.ttl#me> <http://xmlns.com/foaf/0.1/givenname> "Andon" .
+<https://raw.githubusercontent.com/aadjiandov/vbs_foaf/main/foaf.ttl#me> <http://xmlns.com/foaf/0.1/family_name> "Adji-Andov" .
+<https://raw.githubusercontent.com/aadjiandov/vbs_foaf/main/foaf.ttl#me> <http://xmlns.com/foaf/0.1/nick> "Adjo" .
+<https://raw.githubusercontent.com/aadjiandov/vbs_foaf/main/foaf.ttl#me> <http://xmlns.com/foaf/0.1/mbox_sha1sum> "17eaeb3f0839c73cb859d2cc41e0ca27f1f1060a" .
+<https://raw.githubusercontent.com/aadjiandov/vbs_foaf/main/foaf.ttl#me> <http://xmlns.com/foaf/0.1/phone> <tel:+38976423931> .
+<https://raw.githubusercontent.com/aadjiandov/vbs_foaf/main/foaf.ttl#me> <http://xmlns.com/foaf/0.1/workplaceHomepage> <https://www.ambitioussolutions.mk> .
+<https://raw.githubusercontent.com/aadjiandov/vbs_foaf/main/foaf.ttl#me> <http://xmlns.com/foaf/0.1/workInfoHomepage> <https://raw.githubusercontent.com/aadjiandov/vbs_foaf/main/Java Web Applications> .
+<https://raw.githubusercontent.com/aadjiandov/vbs_foaf/main/foaf.ttl#me> <http://xmlns.com/foaf/0.1/schoolHomepage> <https://www.finki.ukim.mk/> .
+<https://raw.githubusercontent.com/aadjiandov/vbs_foaf/main/foaf.ttl#me> <http://xmlns.com/foaf/0.1/knows> _:genid1 .
+_:genid1 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> .
+_:genid1 <http://xmlns.com/foaf/0.1/name> "Boban" .
+_:genid1 <http://xmlns.com/foaf/0.1/mbox_sha1sum> "2e174fc4af304cdf46df6c8040d7748b9f0e0015" .
+_:genid1 <http://www.w3.org/2000/01/rdf-schema#seeAlso> <https://raw.githubusercontent.com/BobanNikolov/wbs-lab5/main/foaf.ttl> .
