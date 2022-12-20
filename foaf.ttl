@@ -17,7 +17,7 @@
   foaf:mbox_sha1sum "17eaeb3f0839c73cb859d2cc41e0ca27f1f1060a" ;
   foaf:phone <tel:+38976423931> ;
   foaf:workplaceHomepage <https://www.ambitioussolutions.mk> ;
-  foaf:workInfoHomepage <https://raw.githubusercontent.com/aadjiandov/vbs_foaf/main/Java Web Applications> ;
+  foaf:workInfoHomepage <https://raw.githubusercontent.com/aadjiandov/vbs_foaf/main/JavaWebApplications> ;
   foaf:schoolHomepage <https://www.finki.ukim.mk/> ;
   foaf:knows [
     a foaf:Person ;
